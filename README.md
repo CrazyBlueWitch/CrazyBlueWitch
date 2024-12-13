@@ -14,8 +14,3 @@
 <img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="Freescale" width="30px" style="padding-right:10px;" src="https://github.com/BretStateham/Ingenu2Azure/blob/master/docs/images/Freescale%20Logo%20Dots%20Only.svg" />
 <img align="left" alt="Brady" width="25px" style="padding-right:10px;" src="https://seeklogo.com/images/B/Brady-logo-9A7A2D2B6E-seeklogo.com.png" />
-
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="" />
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="" />
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="" />
-
