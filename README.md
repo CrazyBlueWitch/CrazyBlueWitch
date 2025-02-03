@@ -7,10 +7,10 @@
 ## Tech Stack
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Overleaf" width="25px" style="padding-right:10px;" src="https://seeklogo.com/images/O/overleaf-logo-D46004E8F2-seeklogo.com.png" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="Overleaf" width="25px" style="padding-right:10px;" src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" />
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" />
 <img align="left" alt="ROS" width="30px" style="padding-right:10px;" src="https://github.com/ros-infrastructure/artwork/blob/master/orgunits/ros.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="Freescale" width="30px" style="padding-right:10px;" src="https://github.com/BretStateham/Ingenu2Azure/blob/master/docs/images/Freescale%20Logo%20Dots%20Only.svg" />
-<img align="left" alt="Brady" width="25px" style="padding-right:10px;" src="https://seeklogo.com/images/B/Brady-logo-9A7A2D2B6E-seeklogo.com.png" />
